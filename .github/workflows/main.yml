@@ -1,4 +1,4 @@
-name: Compile PDFs
+name: PDF Compilation
 
 # Compile new PDFs on any push event
 on:
